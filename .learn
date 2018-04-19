@@ -6,3 +6,5 @@ languages:
   - Ruby
 resources:
   - 0
+
+parent_template: git@github.com:learn-co-curriculum/ruby-puppy.git
